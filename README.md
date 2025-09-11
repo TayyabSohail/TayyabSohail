@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Tayyab%20Sohail&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Next.js%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Tayyab%20Sohail&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descAlign=50" />
 </div>
 
 ---
@@ -12,8 +12,6 @@ With **1+ year of professional experience** (including **Bitsmiths**) and a **Co
 - 🧠 Delivering **AI-driven solutions** (RAG, Generative AI, LLM apps, TensorFlow, PyTorch)  
 - ☁️ Deploying and scaling apps with **AWS, GCP, Supabase, Docker, Kubernetes**  
 - 🚀 Driving production-ready systems using **CI/CD, Prometheus, Grafana**  
-
-💡 Mindset: *Build. Learn. Ship. Repeat.*  
 
 ---
 
@@ -32,25 +30,6 @@ With **1+ year of professional experience** (including **Bitsmiths**) and a **Co
 `Prompt Engineering` · `RAG Systems` · `Text Generation` · `Image Generation` · `TensorFlow` · `PyTorch` · `Model Deployment`  
 
 ---
-
-## 🏢 Professional Experience  
-
-- **Bitsmiths** — *Full Stack Developer*  
-  Building scalable, production-grade applications for real-world clients.  
-
-- **Freelance & Side Projects** — *AI & Web Apps*  
-  Delivered AI-enhanced full stack projects, RAG-based chatbots, and cloud-native apps.  
-
----
-
-## 📌 Projects Snapshot  
-
-- **PhysioVision** → AI-powered physiotherapy platform (Next.js · MERN · Tailwind · RAG · TensorFlow)  
-- **PEP News Screening Platform** → Built during internship at Aawaz AI for Bank Islami (React · Vite · Tailwind)  
-- **New Web Order** → SEO-optimized commercial website (Next.js · TypeScript)  
-- **Wedding Events Planning App** → Full-stack Java/MySQL solution with vendor & user flows  
-
-*(more in pinned repos & Bitsmiths org)*  
 
 ---
 
