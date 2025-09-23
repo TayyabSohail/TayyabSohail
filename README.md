@@ -21,7 +21,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
 `Next.js` · `React` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS`  
 
 **Backend & Databases**  
-`Node.js` · `Express.js` · `Flask` · `Python` · `Supabase` · `PostgreSQL` · `MongoDB` · `SQL/NoSQL`  
+`Next.js` · `Node.js` · `Express.js` · `Flask` · `Python` · `SQL/NoSQL` ( `Supabase` · `PostgreSQL` · `MongoDB` )
 
 **Cloud & DevOps**  
 `AWS` · `Google Cloud` · `Docker` · `Kubernetes` · `CI/CD` · `Prometheus` · `Grafana`  
