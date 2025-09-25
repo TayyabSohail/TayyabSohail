@@ -30,7 +30,9 @@ With **1+ year of professional experience** and a **Computer Science degree from
 `Prompt Engineering` · `RAG Systems` · `Text Generation` · `Image Generation` · `TensorFlow` · `PyTorch` · `Model Deployment`  
 
 ---
-## 📊 My GitHub & Contributions <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TayyabSohail&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" /> </div>
+## 📊 My GitHub & Contributions <div align="center"> 
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" /> </div>
 ---
 
 👉 I also contribute actively under the **Bitsmiths** organization.  
