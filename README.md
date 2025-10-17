@@ -32,7 +32,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
 ---
 ## 📊 My GitHub & Contributions <div align="center"> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" /> </div>
+<div> <img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" /> </div>
 ---
 
 👉 I also contribute actively under the **Bitsmiths** organization.  
