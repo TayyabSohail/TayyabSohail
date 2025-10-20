@@ -143,13 +143,15 @@ Check out my org repos to see professional-grade projects in action.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" title="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="48" title="Portfolio" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:m.tayyabsohail614@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" title="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="42"/>
   </a>
 </div>
 
