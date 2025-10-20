@@ -142,12 +142,17 @@ Check out my org repos to see professional-grade projects in action.
 ## 🌐 Connect With Me  
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayyab-sohail/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://tayyab-portfolio-chi.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.tayyabsohail614@gmail.com)  
-
+  <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="28" />
+  </a>
+  <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?logo=vercel&logoColor=white&style=flat-square" height="28" />
+  </a>
+  <a href="mailto:m.tayyabsohail614@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" height="28" />
+  </a>
 </div>
+
 
 ---
 
