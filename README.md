@@ -120,11 +120,11 @@ With **1+ year of professional experience** and a **Computer Science degree from
 ---
 ## 📊 My GitHub & Contributions <div align="center"> 
 
-<div align="center" width="110"> <img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" /> </div>
+<div align="center" width="110"> <img src="https://github-readme-streak-stats.herokuapp.com?user=TayyabSohail&theme=tokyonight&hide_border=true&border_radius=6" height="170" />
 
 👉 I also contribute actively under the **Bitsmiths** organization.  
 Check out my org repos to see professional-grade projects in action.  
-
+ </div>
 ---
 
 ## 🎓 Certifications  
