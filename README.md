@@ -59,8 +59,13 @@ With **1+ year of professional experience** and a **Computer Science degree from
   <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="40" title="Flask" alt="Flask"/><br/>Flask
 </td>
 <td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" title="Python"/><br/>Python
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/4479A1">
+    <img height="40" title="SQL" alt="SQL" src="https://cdn.simpleicons.org/mysql/4479A1">
+  </picture><br/>SQL
 </td>
+
 <td align="center" width="110">
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" title="Supabase"/><br/>Supabase
 </td>
