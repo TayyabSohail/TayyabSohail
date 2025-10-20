@@ -10,7 +10,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
 
 - ⚡ Building **high-performance UIs** with **Next.js, React, TypeScript & Tailwind**  
 - 🧠 Delivering **AI-driven solutions** (RAG, Generative AI, LLM apps, TensorFlow, PyTorch)  
-- ☁️ Deploying and scaling apps with **AWS, GCP, Supabase, Docker, Kubernetes**  
+- ☁️ Deploying and scaling apps with **AWS, Supabase, Docker, Kubernetes**  
 - 🚀 Driving production-ready systems using **CI/CD, Prometheus, Grafana**  
 
 ---
@@ -56,7 +56,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
   <img src="https://cdn.simpleicons.org/express/ffffff" height="40" title="Express.js"/><br/>Express
 </td>
 <td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" title="Flask"/><br/>Flask
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="40" title="Flask" alt="Flask"/><br/>Flask
 </td>
 <td align="center" width="110">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" title="Python"/><br/>Python
@@ -77,10 +77,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" height="40" title="AWS" alt="AWS"/><br/>AWS
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" title="Google Cloud"/><br/>GCP
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" height="40" title="AWS" alt="AWS"/><br/>AWS
 </td>
 <td align="center" width="110">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" title="Docker"/><br/>Docker
