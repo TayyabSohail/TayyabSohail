@@ -77,13 +77,8 @@ With **1+ year of professional experience** and a **Computer Science degree from
 <table>
 <tr>
 <td align="center" width="110">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg">
-    <img height="40" title="AWS" alt="AWS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg">
-  </picture><br/>AWS
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" height="40" title="AWS" alt="AWS" style="filter: brightness(200%);"/><br/>AWS
 </td>
-
 <td align="center" width="110">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" title="Docker"/><br/>Docker
 </td>
