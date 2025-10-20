@@ -141,19 +141,20 @@ Check out my org repos to see professional-grade projects in action.
 
 ## 🌐 Connect With Me  
 
-<div align="center">
+<div align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="32" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="mailto:m.tayyabsohail614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="42"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="32" />
   </a>
 </div>
+
 
 
 
