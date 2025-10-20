@@ -142,19 +142,17 @@ Check out my org repos to see professional-grade projects in action.
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/0A66C2" />
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" title="LinkedIn" />
-  </picture>&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/vercel/000000" height="36" title="Portfolio" />
-  </picture>&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/EA4335" />
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="36" title="Email" />
-  </picture>
+  <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" title="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="48" title="Portfolio" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:m.tayyabsohail614@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" title="Email" />
+  </a>
 </div>
+
 
 
 
