@@ -145,7 +145,7 @@ Check out my org repos to see professional-grade projects in action.
   <tr>
     <td align="center" width="120">
       <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="LinkedIn"/><br/>
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg" height="55" alt="LinkedIn"/><br/>
         <sub>LinkedIn</sub>
       </a>
     </td>
