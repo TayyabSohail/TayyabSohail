@@ -142,16 +142,20 @@ Check out my org repos to see professional-grade projects in action.
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="28" />
-  </a>
-  <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?logo=vercel&logoColor=white&style=flat-square" height="28" />
-  </a>
-  <a href="mailto:m.tayyabsohail614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" height="28" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" title="LinkedIn" />
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/vercel/000000" height="36" title="Portfolio" />
+  </picture>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="36" title="Email" />
+  </picture>
 </div>
+
 
 
 ---
