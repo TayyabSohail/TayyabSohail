@@ -141,19 +141,28 @@ Check out my org repos to see professional-grade projects in action.
 
 ## 🌐 Connect With Me  
 
-<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; padding: 20px 0;">
-  <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="50" />
-  </a>
-
-  <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" height="50" />
-  </a>
-
-  <a href="mailto:m.tayyabsohail614@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" height="50" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" alt="LinkedIn"/><br/>
+        <span style="font-size:14px;">LinkedIn</span>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
+        <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="48" alt="Portfolio"/><br/>
+        <span style="font-size:14px;">Portfolio</span>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="mailto:m.tayyabsohail614@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/D14836" height="48" alt="Email"/><br/>
+        <span style="font-size:14px;">Email</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
