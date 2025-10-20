@@ -143,22 +143,22 @@ Check out my org repos to see professional-grade projects in action.
 
 <table align="center">
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <a href="https://www.linkedin.com/in/muhammad-tayyab-sohail/" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48" alt="LinkedIn"/><br/>
-        <span style="font-size:14px;">LinkedIn</span>
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg" height="55" alt="LinkedIn"/><br/>
+        <sub>LinkedIn</sub>
       </a>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <a href="https://tayyab-portfolio-chi.vercel.app/" target="_blank">
-        <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="48" alt="Portfolio"/><br/>
-        <span style="font-size:14px;">Portfolio</span>
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/website.svg" height="55" alt="Portfolio"/><br/>
+        <sub>Portfolio</sub>
       </a>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <a href="mailto:m.tayyabsohail614@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/D14836" height="48" alt="Email"/><br/>
-        <span style="font-size:14px;">Email</span>
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/gmail.svg" height="55" alt="Email"/><br/>
+        <sub>Email</sub>
       </a>
     </td>
   </tr>
