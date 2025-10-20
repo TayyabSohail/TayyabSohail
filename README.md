@@ -17,17 +17,106 @@ With **1+ year of professional experience** and a **Computer Science degree from
 
 ## 🛠️ Tech Stack
 
-# 🎨 Frontend
-<p align="left"> <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40"/><br/><sub>Next.js</sub></a>&nbsp;&nbsp; <a href="https://react.dev/" title="React"><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><br/><sub>React</sub></a>&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/><br/><sub>TypeScript</sub></a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/><br/><sub>JavaScript</sub></a>&nbsp;&nbsp; <a href="https://vitejs.dev/" title="Vite"><img src="https://cdn.simpleicons.org/vite/646CFF" height="40"/><br/><sub>Vite</sub></a>&nbsp;&nbsp; <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/><br/><sub>Tailwind</sub></a> </p>
+<div align="center">
 
-# 🧠 Backend & Databases
-<p align="left"> <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br/><sub>Node.js</sub></a>&nbsp;&nbsp; <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.simpleicons.org/express/FFFFFF" height="40"/><br/><sub>Express</sub></a>&nbsp;&nbsp; <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://cdn.simpleicons.org/flask/000000" height="40"/><br/><sub>Flask</sub></a>&nbsp;&nbsp; <a href="https://www.python.org/" title="Python"><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/><sub>Python</sub></a>&nbsp;&nbsp; <a href="https://supabase.com/" title="Supabase"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40"/><br/><sub>Supabase</sub></a>&nbsp;&nbsp; <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40"/><br/><sub>Postgres</sub></a>&nbsp;&nbsp; <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40"/><br/><sub>MongoDB</sub></a> </p>
+### 🎨 Frontend  
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" title="Next.js"/><br/>Next.js
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" title="React"/><br/>React
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" title="TypeScript"/><br/>TypeScript
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" title="JavaScript"/><br/>JavaScript
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" title="Tailwind CSS"/><br/>Tailwind
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" title="Vite"/><br/>Vite
+</td>
+</tr>
+</table>
 
-# ☁️ Cloud & DevOps
-<p align="left"> <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/><br/><sub>AWS</sub></a>&nbsp;&nbsp; <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40"/><br/><sub>Google Cloud</sub></a>&nbsp;&nbsp; <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/><br/><sub>Docker</sub></a>&nbsp;&nbsp; <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40"/><br/><sub>Kubernetes</sub></a>&nbsp;&nbsp; <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40"/><br/><sub>CI/CD</sub></a>&nbsp;&nbsp; <a href="https://prometheus.io/" title="Prometheus"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40"/><br/><sub>Prometheus</sub></a>&nbsp;&nbsp; <a href="https://grafana.com/" title="Grafana"><img src="https://cdn.simpleicons.org/grafana/F46800" height="40"/><br/><sub>Grafana</sub></a> </p>
+### 🧠 Backend & Databases  
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/><br/>Node.js
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" title="Express.js"/><br/>Express
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" title="Flask"/><br/>Flask
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" title="Python"/><br/>Python
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" title="Supabase"/><br/>Supabase
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="PostgreSQL"/><br/>Postgres
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" title="MongoDB"/><br/>MongoDB
+</td>
+</tr>
+</table>
 
-# 🤖 AI / ML
-<p align="left"> <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/><br/><sub>TensorFlow</sub></a>&nbsp;&nbsp; <a href="https://pytorch.org/" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40"/><br/><sub>PyTorch</sub></a>&nbsp;&nbsp; <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" height="40"/><br/><sub>OpenAI</sub></a>&nbsp;&nbsp; <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFAE1A" height="40"/><br/><sub>HuggingFace</sub></a> </p>
+### ☁️ Cloud & DevOps  
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/><br/>AWS
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" title="Google Cloud"/><br/>GCP
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" title="Docker"/><br/>Docker
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" title="Kubernetes"/><br/>Kubernetes
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" title="GitHub Actions"/><br/>CI/CD
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" title="Prometheus"/><br/>Prometheus
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" title="Grafana"/><br/>Grafana
+</td>
+</tr>
+</table>
+
+### 🤖 AI / ML  
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" title="TensorFlow"/><br/>TensorFlow
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" title="PyTorch"/><br/>PyTorch
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" title="OpenAI"/><br/>OpenAI
+</td>
+<td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/huggingface/FFAE1A" height="40" title="Hugging Face"/><br/>Hugging Face
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 ## 📊 My GitHub & Contributions <div align="center"> 
 
