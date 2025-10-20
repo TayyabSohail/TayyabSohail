@@ -74,7 +74,7 @@ With **1+ year of professional experience** and a **Computer Science degree from
 <table>
 <tr>
 <td align="center" width="110">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" title="AWS"/><br/>AWS
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" height="40" title="AWS" alt="AWS"/><br/>AWS
 </td>
 <td align="center" width="110">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" title="Google Cloud"/><br/>GCP
