@@ -47,6 +47,9 @@ With **1+ year of professional experience** and a **Computer Science degree from
 <table>
 <tr>
 <td align="center" width="110">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" title="Next.js"/><br/>Next.js
+</td>
+<td align="center" width="110">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/><br/>Node.js
 </td>
 <td align="center" width="110">
@@ -125,7 +128,6 @@ With **1+ year of professional experience** and a **Computer Science degree from
 👉 I also contribute actively under the **Bitsmiths** organization.  
 Check out my org repos to see professional-grade projects in action.  
  </div>
----
 
 ## 🎓 Certifications  
 
