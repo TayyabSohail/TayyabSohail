@@ -17,17 +17,17 @@ With **1+ year of professional experience** and a **Computer Science degree from
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS`  
+🎨 Frontend
+<p align="left"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" /> <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="Vite" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" /> </p>
 
-**Backend & Databases**  
-`Next.js` · `Node.js` · `Express.js` · `Flask` · `Python` · `SQL/NoSQL` ( `Supabase` · `PostgreSQL` · `MongoDB` )
+🧠 Backend & Databases
+<p align="left"> <img src="https://cdn.simpleicons.org/node-dot-js/339933" height="30" alt="Node.js" /> <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="Express.js" /> <img src="https://cdn.simpleicons.org/flask/000000" height="30" alt="Flask" /> <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" /> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="Supabase" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" /> </p>
 
-**Cloud & DevOps**  
-`AWS` · `Google Cloud` · `Docker` · `Kubernetes` · `CI/CD` · `Prometheus` · `Grafana`  
+☁️ Cloud & DevOps
+<p align="left"> <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="AWS" /> <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="Google Cloud" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" /> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="Kubernetes" /> <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="CI/CD" /> <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="Prometheus" /> <img src="https://cdn.simpleicons.org/grafana/F46800" height="30" alt="Grafana" /> </p>
 
-**AI / ML**  
-`Prompt Engineering` · `RAG Systems` · `Text Generation` · `Image Generation` · `TensorFlow` · `PyTorch` · `Model Deployment`  
+🤖 AI / ML
+<p align="left"> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow" /> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" /> <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="OpenAI" /> <img src="https://cdn.simpleicons.org/huggingface/FFAE1A" height="30" alt="Hugging Face" /> </p>
 
 ---
 ## 📊 My GitHub & Contributions <div align="center"> 
