@@ -126,9 +126,8 @@ With **1+ year of professional experience** and a **Computer Science degree from
 ## 📊 My GitHub & Contributions <div align="center"> 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TayyabSohail&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="170"
+    src="https://github.com/users/TayyabSohail/contributions"
+    alt="GitHub Contributions"
   />
 </p>
 
