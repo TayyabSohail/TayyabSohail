@@ -122,40 +122,6 @@ With **1+ year of professional experience** and a **Computer Science degree from
 
 </div>
 
----
-## 📊 My GitHub & Contributions <div align="center"> 
-<p align="center">
-  <a href="https://github.com/TayyabSohail">
-    <img 
-      src="https://personalstatsgithub.vercel.app/api?username=TayyabSohail&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&border_radius=6" 
-      height="170" 
-      alt="Muhammad Tayyab Sohail's GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/TayyabSohail">
-    <img 
-      src="https://streak-stats.demolab.com?user=TayyabSohail&theme=tokyonight&hide_border=true" 
-      height="170"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TayyabSohail">
-    <img 
-      src="https://personalstatsgithub.vercel.app/api/top-langs/?username=TayyabSohail&layout=compact&theme=tokyonight&hide_border=true" 
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-
-
-👉 I also contribute actively under the **Bitsmiths** organization.  
-Check out my org repos to see professional-grade projects in action.  
- </div>
-
 ## 🎓 Certifications  
 
 - AWS Academy **Cloud Web Application Builder**  
