@@ -6,7 +6,7 @@
 
 ## 👋 About Me  
 I’m **Muhammad Tayyab Sohail**, a **Next.js Full Stack Developer** based in Rawalpindi 🇵🇰.  
-With **1+ year of professional experience** and a **Computer Science degree from FAST NUCES Islamabad**, I specialize in:  
+With **2+ year of professional experience** and a **Computer Science degree from FAST NUCES Islamabad**, I specialize in:  
 
 - ⚡ Building **high-performance UIs** with **Next.js, React, TypeScript & Tailwind**  
 - 🧠 Delivering **AI-driven solutions** (RAG, Generative AI, LLM apps, TensorFlow, PyTorch)  
